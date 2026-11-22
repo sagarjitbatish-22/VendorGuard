@@ -19,12 +19,6 @@ Passive AI reads. VendorGuard negotiates.
 
 <!-- HERO BANNER IMAGE -->
 
-
-<p align="center">
-  <img src="https://github.com/sagarjitbatish-22/VendorGuard/blob/main/png/Screenshot%202026-11-22%20073847.png" alt="VendorGuard Hero Interface" width="880px" style="border-radius: 14px; box-shadow: 0 15px 40px rgba(0,0,0,0.6);" />
-</p>
-
-
 Key Highlights •
 Visual Walkthrough •
 The 3-Stage Engine •
@@ -56,7 +50,7 @@ All UI assets and screenshots can be placed under the assets/screenshots/ direct
 The landing experience features a dynamic dark-mode glassmorphic interface with cursor glow, live statistic trackers, and real-time counter metrics.
 
 <div align="center">
-  <img src="https://github.com/sagarjitbatish-22/VendorGuard/blob/main/png/Screenshot%202026-11-22%20073919.png" alt="Landing Page and Stats" width="820px" />
+  <img src="https://github.com/sagarjitbatish-22/VendorGuard/blob/main/png/Screenshot%202026-11-22%20073847.png" alt="Landing Page and Stats" width="820px" />
   <p><i>Landing view highlighting weekly hours saved, rupee exposure detection, and API-first readiness.</i></p>
 </div>
 
@@ -66,7 +60,7 @@ The landing experience features a dynamic dark-mode glassmorphic interface with 
 Users can drag & drop any vendor PDF/TXT file or launch the built-in Master Services Agreement benchmark. The document scanner executes synchronous text extraction, clause segmentation, and counterfactual analysis.
 
 <div align="center">
-  <img src="https://github.com/sagarjitbatish-22/VendorGuard/blob/main/png/Screenshot%202026-11-22%20073956.png" alt="Scanning Animation and Extraction Pipeline" width="820px" />
+  <img src="https://github.com/sagarjitbatish-22/VendorGuard/blob/main/png/Screenshot%202026-11-22%20073919.png" alt="Scanning Animation and Extraction Pipeline" width="820px" />
   <p><i>Live document scanning animation highlighting text parsing, risk taxonomy, and redline drafting.</i></p>
 </div>
 
@@ -76,7 +70,7 @@ Users can drag & drop any vendor PDF/TXT file or launch the built-in Master Serv
 Interactive exposure gauge, risk ring, and posture switcher (Soft vs. Balanced vs. Firm) that recalculates risk exposure and vendor acceptance likelihood on the fly.
 
 <div align="center">
-  <img src="assets/screenshots/results-dashboard.png" alt="Results Dashboard & Risk Meter" width="820px" />
+  <img src="https://github.com/sagarjitbatish-22/VendorGuard/blob/main/png/Screenshot%202026-11-22%20073956.png" alt="Results Dashboard & Risk Meter" width="820px" />
   <p><i>Real-time financial exposure reduction gauge, risk score, and tone posture controls.</i></p>
 </div>
 
