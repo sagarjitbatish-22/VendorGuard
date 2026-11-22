@@ -85,6 +85,25 @@ Each flagged clause shows the exact legal reasoning, original predatory clause, 
 </div>
 
 
+📂 Project Structure
+
+The project code is organized in the Web structure directory:
+
+VendorGuard/
+├── Web structure/             # Core Web Application Directory
+│   ├── main.py                # FastAPI Application & Legal Risk Engine
+│   ├── index.html             # High-aesthetic Glassmorphism UI
+│   ├── style.css              # Dark-mode styling, grid animations & SVG meters
+│   └── script.js              # Real-time UI logic & API orchestrator
+├── png/                       # UI captures and preview graphics
+│     ├── hero-overview.png
+│     ├── scanner-demo.png
+│     ├── results-dashboard.png
+│     └── redline-findings.png
+└── README.md                  # Project Documentation
+
+
+
 🧠 The 3-Stage Autonomous Engine
 
        [ Upload Vendor PDF / TXT ]
