@@ -21,7 +21,7 @@ Passive AI reads. VendorGuard negotiates.
 
 
 <p align="center">
-  <img src="assets/screenshots/hero-banner.png" alt="VendorGuard Hero Interface" width="880px" style="border-radius: 14px; box-shadow: 0 15px 40px rgba(0,0,0,0.6);" />
+  <img src="https://github.com/sagarjitbatish-22/VendorGuard/blob/main/png/Screenshot%202026-11-22%20073847.png" alt="VendorGuard Hero Interface" width="880px" style="border-radius: 14px; box-shadow: 0 15px 40px rgba(0,0,0,0.6);" />
 </p>
 
 
@@ -56,7 +56,7 @@ All UI assets and screenshots can be placed under the assets/screenshots/ direct
 The landing experience features a dynamic dark-mode glassmorphic interface with cursor glow, live statistic trackers, and real-time counter metrics.
 
 <div align="center">
-  <img src="assets/screenshots/hero-overview.png" alt="Landing Page and Stats" width="820px" />
+  <img src="https://github.com/sagarjitbatish-22/VendorGuard/blob/main/png/Screenshot%202026-11-22%20073919.png" alt="Landing Page and Stats" width="820px" />
   <p><i>Landing view highlighting weekly hours saved, rupee exposure detection, and API-first readiness.</i></p>
 </div>
 
@@ -66,7 +66,7 @@ The landing experience features a dynamic dark-mode glassmorphic interface with 
 Users can drag & drop any vendor PDF/TXT file or launch the built-in Master Services Agreement benchmark. The document scanner executes synchronous text extraction, clause segmentation, and counterfactual analysis.
 
 <div align="center">
-  <img src="assets/screenshots/scanner-demo.png" alt="Scanning Animation and Extraction Pipeline" width="820px" />
+  <img src="https://github.com/sagarjitbatish-22/VendorGuard/blob/main/png/Screenshot%202026-11-22%20073956.png" alt="Scanning Animation and Extraction Pipeline" width="820px" />
   <p><i>Live document scanning animation highlighting text parsing, risk taxonomy, and redline drafting.</i></p>
 </div>
 
@@ -86,7 +86,7 @@ Interactive exposure gauge, risk ring, and posture switcher (Soft vs. Balanced v
 Each flagged clause shows the exact legal reasoning, original predatory clause, proposed redline replacement, and one-click copy buttons for legal counsel.
 
 <div align="center">
-  <img src="assets/screenshots/redline-findings.png" alt="Detailed Findings & Redline" width="820px" />
+  <img src="https://github.com/sagarjitbatish-22/VendorGuard/blob/main/png/Screenshot%202026-11-22%20074115.png" alt="Detailed Findings & Redline" width="820px" />
   <p><i>Side-by-side comparison of original vendor language and VendorGuard counter-proposals.</i></p>
 </div>
 
