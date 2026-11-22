@@ -3,7 +3,7 @@
    falls back to the built-in sample result gracefully. */
 const API_URL = (typeof window !== "undefined" && window.location.origin.startsWith("http"))
   ? `${window.location.origin}/analyze`
-  : "http://localhost:8000/analyze";
+  : "https://vendorguard-xxxx.onrender.com/analyze";
 const USE_REAL_API = true;
 
 const SAMPLE = {
